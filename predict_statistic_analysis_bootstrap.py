@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Antoine DELPLACE
-# Last update: 17/01/2020
+# Author: Aniket Singh
 """
 Perform a statistic analysis of the Random Forest with a bootstrap method to predict which flow is a malware.
 
