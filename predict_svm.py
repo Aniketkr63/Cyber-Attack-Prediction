@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Antoine DELPLACE
-# Last update: 17/01/2020
+# Author: Aniket Singh
 """
 Use Support Vector Machine to predict which flow is a malware.
 Tune different hyperparameters: gamma_scale, degree, regularization penalty
