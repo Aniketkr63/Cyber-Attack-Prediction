@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Antoine DELPLACE
-# Last update: 17/01/2020
+# Author: Aniket Singh
 """
 Dimensionality reduction algorithms using PCA and t-SNE
 
